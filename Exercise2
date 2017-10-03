@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+   
+<head>
+    <meta charset="utf-8" />
+    <title> Exercise 2 </title>
+</head>
+
+<body>
+    <h1>
+        Exercise 1
+    </h1>
+    <h3>Introduction</h3>
+    
+    This is some random text i'm writing just to fill out some space.
+    Text is just words put in a context. Okey I see now that i need some more words to fill this space, well I think i'm going to cut
+    a piece of words from a famous thinker. Let's see if you can guess who came up with this quotation.
+    "Imagination is more important than knowledge."
+    He's one of the biggest pioneers of the 20th century.
+    I'll give you a hint: (E=m^2).
+    
+    <h3>Continue</h3>
+    
+    <p> Okey.. I've given you some time to think about who the person who I had in thought,
+    <br /> 
+        if you haven't figured it out yet 
+    <br />
+        I'll give you a second hint.
+        Here we go :
+    <br />
+        He escaped <strong>Germany</strong> pre world war 2 and was later involved in the making of the <em><u>atomic</u></em> bomb.
+    </p>
+        
+        This is just a random pic, irrelevant to the text above..
+        <div>
+            <img src="http://www.dumpaday.com/wp-content/uploads/2016/05/funny-527.jpg" />
+        </div>
+    
+</body>
+</html>
